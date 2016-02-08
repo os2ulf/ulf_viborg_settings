@@ -1,0 +1,4 @@
+name = Ulf viborg settings
+description = Holds settings specific to Ulf i Viborg
+package = Ulf base
+core = 7.x
